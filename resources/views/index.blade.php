@@ -12,6 +12,10 @@
     <h1>hi</h1>
     <h1>ya</h1>
     <h1>hu</h1>
+    <x-button></x-button>
+
+
     <h1>hihi</h1>
+
 </body>
 </html>
